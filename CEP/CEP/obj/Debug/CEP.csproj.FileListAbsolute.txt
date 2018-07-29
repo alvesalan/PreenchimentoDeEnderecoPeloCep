@@ -1,0 +1,9 @@
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\bin\Debug\CEP.exe.config
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\bin\Debug\CEP.exe
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\bin\Debug\CEP.pdb
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\obj\Debug\CEP.csprojResolveAssemblyReference.cache
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\obj\Debug\CEP.Form1.resources
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\obj\Debug\CEP.Properties.Resources.resources
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\obj\Debug\CEP.csproj.GenerateResource.Cache
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\obj\Debug\CEP.exe
+C:\Users\Alan Eduardo\Desktop\CEP\CEP\obj\Debug\CEP.pdb
